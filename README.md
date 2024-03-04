@@ -7,4 +7,3 @@
 # Mentee Info
 ### Name : Iqbal Dufriandes
 ### Program : IBM Advance AI
- 
